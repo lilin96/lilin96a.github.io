@@ -19,18 +19,11 @@ My recent research interests include:
 
 ## Selected Publications
 
-**[1] Lin Li**, Runjia Tan, Jianwu Fang, Jianru Xue, Chen Lv.  
-**LLM-Augmented Hierarchical Reinforcement Learning for Human-Like Decision Making**  
-*Expert Systems with Applications (ESWA)*, 2025.  
-(IF: 8.5, JCR Q1, CAS Tier-1 Top)
+**[1] Lin Li**, Shuo Cheng, Xiangkun He, Chen Lv. Predictive Risk-Aware MARL-Based Cooperative Driving Strategy for CAVs in Highly Interactive Driving Environments. IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, 2026.  
 
-**[2] Lin Li**, Chen Lv.  
-**Multi-Agent Reinforcement Learning-Based Predictive Risk-Aware Cooperative Driving for Connected and Autonomous Vehicles**  
-*IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, 2026.  
+**[2] Lin Li**, Runjia Tan, Jianwu Fang, Jianru Xue, Chen Lv. LLM-Augmented Hierarchical Reinforcement Learning for Human-Like Decision Making. Expert Systems with Applications (ESWA), 2025.
 
-**[3] Lin Li**, Wanzhong Zhao, Chunyan Wang.  
-**BRAM-ED: Vehicle Trajectory Prediction Considering the Change of Driving Behavior**  
-*IEEE/ASME Transactions on Mechatronics*, 2022.  
+**[3] Lin Li**, Wanzhong Zhao, Chunyan Wang. BRAM-ED: Vehicle Trajectory Prediction Considering the Change of Driving Behavior. *IEEE/ASME Transactions on Mechatronics*, 2022.  
 
 **[4] Lin Li**, Wanzhong Zhao.  
 **POMDP Motion Planning Algorithm Based on Multi-Modal Driving Intention**  
