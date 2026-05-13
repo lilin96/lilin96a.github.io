@@ -41,12 +41,14 @@ My recent research interests include:
 
 [11] Xuyang Li, Jianwu Fang, **Lin Li**, Boyuan Chen, Guangliang Li, Jianru Xue. Guided Distillation and Risk Adaptive Evolution for Multi-Robot Navigation. *AAAI Conference on Artificial Intelligence*, 2026.
 
-[12] Qingyun Chen, Wanzhong Zhao, **Lin Li**, Chunyan Wang, Feng Chen. ES-DQN: A Learning Method for Vehicle Intelligent Speed Control Strategy Under Uncertain Cut-In Scenario. *IEEE Transactions on Vehicular Technology*, 2022.
+[12] Xiaochuan Zhou, **Lin Li**, Rui Wang, Chunyan Wang. Linear Time-Varying Model Predictive Control for Emergency Collision Avoidance of Four-Wheel-Steering Vehicles. *RAAI*, 2025.
 
-[13] Can Xu, Wanzhong Zhao, **Lin Li**, Qingyun Chen. A Nash Q-Learning Based Motion Decision Algorithm Considering Interaction with Traffic Participants. *IEEE Transactions on Vehicular Technology*, 2020.
+[13] Jinqiang Liu, Wanzhong Zhao, Chunyan Wang, Can Xu, **Lin Li**, Qingyun Chen. Eco-Friendly On-Ramp Merging Strategy for Connected and Automated Vehicles in Heterogeneous Traffic. *IEEE Transactions on Vehicular Technology*, 2023.
 
-[14] Xiaochuan Zhou, **Lin Li**, Rui Wang, Chunyan Wang. Linear Time-Varying Model Predictive Control for Emergency Collision Avoidance of Four-Wheel-Steering Vehicles. *RAAI*, 2025.
+[14] Qingyun Chen, Wanzhong Zhao, **Lin Li**, Chunyan Wang, Feng Chen. ES-DQN: A Learning Method for Vehicle Intelligent Speed Control Strategy Under Uncertain Cut-In Scenario. *IEEE Transactions on Vehicular Technology*, 2022.
 
-[15] Qingyun Chen, Wanzhong Zhao, Can Xu, Chunyan Wang, **Lin Li**, Shijuan Dai. An Improved IOHMM-Based Stochastic Driver Lane-Changing Model. *IEEE Transactions on Human-Machine Systems*, 2021.
+[15] Can Xu, Wanzhong Zhao, **Lin Li**, Qingyun Chen. A Nash Q-Learning Based Motion Decision Algorithm Considering Interaction with Traffic Participants. *IEEE Transactions on Vehicular Technology*, 2020.
 
-[16] Jinqiang Liu, Wanzhong Zhao, Chunyan Wang, Can Xu, **Lin Li**, Qingyun Chen. Eco-Friendly On-Ramp Merging Strategy for Connected and Automated Vehicles in Heterogeneous Traffic. *IEEE Transactions on Vehicular Technology*, 2023.
+[16] Qingyun Chen, Wanzhong Zhao, Can Xu, Chunyan Wang, **Lin Li**, Shijuan Dai. An Improved IOHMM-Based Stochastic Driver Lane-Changing Model. *IEEE Transactions on Human-Machine Systems*, 2021.
+
+
