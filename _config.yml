@@ -27,9 +27,9 @@ author:
   name             : "Lin Li(李琳)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : "Zhejiang, China"
-  employer         : "Zhejiang University of Technology."
-  uri              : # URL
+  location         : "hangzhou, China"
+  employer         : "Zhejiang University of Technology"
+  url              : # URL
   email            : "lilin112631@gmail.com" 
 
   # Academic websites
