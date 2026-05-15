@@ -17,6 +17,7 @@ My recent research interests include:
 - Multi-Agent Systems  
 - Motion Planning
 ## Selected Publications
+
 **[1] Lin Li**, Shuo Cheng, Xiangkun He, Chen Lv. Predictive Risk-Aware MARL-Based Cooperative Driving Strategy for CAVs in Highly Interactive Driving Environments. *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, 2026.  
 
 **[2] Lin Li**, Yuxin Cai, Jianwu Fang, Jianru Xue, Chen Lv. COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning. *IEEE ITSC 2025* 🏆 **Best Paper Award (First Prize)**  
