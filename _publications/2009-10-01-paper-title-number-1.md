@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "LLM-augmented Hierarchical Reinforcement Learning for HumanLike Decision Making"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2025-01-01-llm-augmented-hierarchical-reinforcement-learning-for-humanlike-decision-making
+excerpt: 'LLM-augmented hierarchical reinforcement learning for human-like decision making.'
+date: 2025-01-01
+venue: 'Expert Systems with Applications'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.eswa.2025.128736'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'L. Li, R. Tan, J. Fang, J. Xue, C. Lv. (2025). "LLM-augmented Hierarchical Reinforcement Learning for HumanLike Decision Making." <i>Expert Systems with Applications</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
