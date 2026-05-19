@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "5adc1cf08nf04a6e5799067fc75237dd.jpg"
-  name             : "Lin Li(李琳)"
+  name             : "Lin Li(李琳(浙工大))"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : "hangzhou, China"
+  location         : "Hangzhou, China"
   employer         : "Zhejiang University of Technology"
   url              : # URL
   email            : "lilin112631@gmail.com" 
