@@ -10,12 +10,13 @@ redirect_from:
 I am currently an Associate Professor with the College of Computer Science and Technology at **Zhejiang University of Technology**, China, where I working with Prof. [Chunhua Shen](https://cshen.github.io/). Previously, I worked as a Research Fellow at the School of Mechanical and Aerospace Engineering at **Nanyang Technological University (NTU)**, Singapore, where I collaborated with Prof. [Chen Lv](https://lvchen.wixsite.com/automan) on autonomous driving and embodied intelligence research. I received my Ph.D. degree in Vehicle Engineering from **Nanjing University of Aeronautics and Astronautics (NUAA)**, advised by Prof. [Wanzhong Zhao](https://faculty.nuaa.edu.cn/zwz/zh_CN/index.htm). During my doctoral studies, I was also a visiting Ph.D. researcher at **Cranfield University**, UK. My research lies at the intersection of embodied AI, autonomous systems, reinforcement learning, and foundation models. I focus on developing intelligent agents that can perceive, reason, plan, and safely interact in complex dynamic environments.
 
 My recent research interests include:
-- Embodied Intelligence  
-- Autonomous Driving
-- Vision-Language-Action Models  
-- Reinforcement Learning  
-- Multi-Agent Systems  
-- Motion Planning
+- Embodied Intelligence
+- Vision-Language-Action Models
+- World Models for Robotics
+- Cognitive Decision Making
+- Human-Aware Planning
+- Safety-Critical AI
+
 ## Selected Publications
 
 **[1] Lin Li**, Shuo Cheng, Xiangkun He, \*Chen Lv. Predictive Risk-Aware MARL-Based Cooperative Driving Strategy for CAVs in Highly Interactive Driving Environments. *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, 2026.  
